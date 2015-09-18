@@ -1,0 +1,18 @@
+# Gradle Files #
+.gradle
+/local.properties
+
+# Android Studio
+/.idea
+*.iml
+
+# Build Output directs
+.DS_Store
+/build
+/captures
+
+# Eclipse
+.classpath
+.project
+.settings
+.metadata
